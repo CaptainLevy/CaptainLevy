@@ -13,10 +13,10 @@ Passionate about turning data into actionable insights using Statistics, Machine
 - **Tools**: Jupyter, Git, Excel
 
 ### 🔥 Featured Projects
-- [RAG Government Schemes AI Assistant](link) → Real-world GenAI application
-- [Credit Risk Analysis](link) → Classification + handling imbalance
+- [RAG Government Schemes AI Assistant](https://github.com/CaptainLevy/India-scheme-rag) → Real-world GenAI application
+- [Marketing A/B testing](https://github.com/CaptainLevy/marketing-ab-testing) → SQL, Python + statistical handling
 - [E-commerce Customer Segmentation](link) → RFM + K-Means
-- [Rossmann Sales Forecasting](link) → Time Series Analysis
+- [Rossmann Sales Forecasting](https://github.com/CaptainLevy/sales-forecasting-rossman) → Time Series Analysis
 
 ### 📫 Connect
 - LinkedIn: https://www.linkedin.com/in/ankit-kumar2003/
